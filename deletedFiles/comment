@@ -1,0 +1,192 @@
+/*function jump(body)
+{
+  d = dist(player.x,player.y,body.position.x,body.position.y);
+
+  //console.log(d);
+
+  if(d<70)
+  {
+    //player.x = 100;
+    //player.y = 100;
+    //console.log("there u go gurl!")
+
+    r = body.position.x;
+
+    if(keyCode === 32)
+    {
+      player.velocityX = 3;
+      player.velocityY = -7
+    }
+
+    if(player.x > r+165 && player.y < 60)
+    {
+      player.velocityX = 3;
+      player.velocityY = 8
+    }
+  }
+}*/
+
+
+
+
+/*function keyPressed()
+{
+  if(keyDown("SPACE"))
+  {
+  }
+    }
+
+function detectCollision(player1,body1)
+{
+player1.x = player1.x;
+player1.y = player1.y;
+
+
+body1Position = body1.body.position;
+
+var distance= dist(body1Position.x,body1Position.y,player1.x,player1.y)
+if(distance<=  player1.width/2 + body1.width/2 || distance<= player1.height/2 + body1.height/2)
+{
+ // Matter.Body.setStatic(lmango.body,false);
+ return true;
+}
+
+else{
+  return  false;
+}
+}*/
+
+
+//t.display();
+  
+
+ 
+ 
+
+
+
+   
+  //player.display();
+
+  /*if(player.body.position.y >= 600)
+  {
+    player.body.position.x =  player.body.position.x+ 5
+ 
+  }*/
+  
+ 
+
+// b3.display();
+//rect(ground.position.x,ground.position.y,windowWidth,20);
+ 
+
+
+
+
+
+
+
+///// other things down here ->
+//camera.position.x = exp.x;
+//triangle(100,100,100-30,100+60,100+30,100+60)
+//triangle.shapeColor = "white"
+
+
+
+
+ //// functions down here ->
+ //keyPressed();
+ //plr.velocityX = plr.velocityX - 0.8;
+    //plr.velocityY = plr.velocityY - 0.8;
+
+    /*if(keyDown("space"))
+    {
+      player.velocityX = 5;
+        player.velocityY = -3;
+        //jumpSound.play();
+        player.velocityY = player.velocityY + 0.8
+  
+        
+    }
+    if(player.velocityY < 0)
+    {
+     
+    }*/
+   
+    
+    //add gravity
+    
+   
+ /*for(var i = 150; i<displayWidth * 2; i = i+ 230)
+ {
+   fill(0)
+   rectMode(CENTER);
+  rect(i,100,50,50)
+ }*/
+
+ 
+ 
+// keyPressed()
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+   // plr.velocityX = 2;
+    //plr.velocityY = -4;
+
+    
+
+    //Body.applyForce( t.body, t.body.position, {x: 2, y : -2.05});
+  //Body.setVelocity(player.body,{x : 6, y: -7})
+ /* player.VelocityX = 0;
+  player.velocityY = -10;
+
+  player.velocityY = player.velocityY + 0.8*/
+  //Body.setVelocity(player.body,{x : play, y: -10})
+
+  //Body.setAngularVelocity(player.body,{x:10,y:-10})
+  //player.setVelocity(5)
+  //angleMode(RADIANS)
+  //Body.setAngularVelocity(t, Math.PI/6);
+  //}
+  
+ /* if(keyCode === DOWN_ARROW)
+  {
+   // plr.velocityX = 2;
+    //plr.velocityY = -4;
+
+    
+
+    //Body.applyForce( player.body, player.body.position, {x: 2, y : -2.05});
+  Body.setVelocity(player.body,{x : 1, y: 0})
+  
+  //Body.setVelocity(player.body,{x : play, y: -10})
+
+  //Body.setAngularVelocity(player.body,{x:10,y:-10})
+  //player.setVelocity(5)
+  
+  }*/
+  
+//}
+
+
+
+
+
+
+
+
+
+
+
+
+
